@@ -15,4 +15,5 @@ Development Tool: Android Studio
 Language: Kotlin
 Database: Firebase
 
-![mad](https://github.com/NipunPalliyaguru/BODIMA-MAD-Mobile-App-Y2S2/assets/99266866/fd7ae2bb-2980-492f-a4cd-f61ce1146e6a)
+<p><img src="https://github.com/NipunPalliyaguru/BODIMA-MAD-Mobile-App-Y2S2/assets/99266866/f35cec39-ddbb-4eb0-bee1-1a7c81f4d72c"></p>
+
