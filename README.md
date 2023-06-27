@@ -6,5 +6,13 @@
 ### Member 3 - IT21165252 - Kuruppu K.A.G.S.R (GIHAA)
 ### Member 4 - IT21187278 - Palliyaguru P.N.A. (NipunPalliyaguru)
 
+BODIMA is a mobile application developed by a group of 2nd-year 2nd-semester students for the Mobile Application Development (MAD) project from the Sri Lanka Institute of Information Technology (SLIIT)
+ 
+Our app provides Accommodations, Discount grocery items, Furnitures, and Food details services to organizations or individuals in need with the aim of
+improving their well-being.This app provides interfaces for both Customers and sellers to achieve required tasks in a friendly way.
+
+Development Tool: Android Studio
+Language: Kotlin
+Database: Firebase
 
 ![mad](https://github.com/NipunPalliyaguru/BODIMA-MAD-Mobile-App-Y2S2/assets/99266866/fd7ae2bb-2980-492f-a4cd-f61ce1146e6a)
