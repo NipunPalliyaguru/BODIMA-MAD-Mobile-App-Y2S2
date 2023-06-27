@@ -7,3 +7,4 @@
 ### Member 4 - IT21187278 - Palliyaguru P.N.A. (NipunPalliyaguru)
 
 
+![mad](https://github.com/NipunPalliyaguru/BODIMA-MAD-Mobile-App-Y2S2/assets/99266866/fd7ae2bb-2980-492f-a4cd-f61ce1146e6a)
